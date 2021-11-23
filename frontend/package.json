@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "to-hex": "^0.0.17",
+    "web3-cardano-token": "^0.0.11"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "16.11.9",
+    "@types/react": "17.0.35",
+    "eslint": "7",
+    "eslint-config-next": "12.0.4",
+    "typescript": "4.5.2"
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb://root:example@localhost:27017/db?authSource=admin&readPreference=primary&appname=gateway&ssl=false"
+}
